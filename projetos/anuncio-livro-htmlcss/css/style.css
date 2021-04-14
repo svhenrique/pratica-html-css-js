@@ -1,0 +1,42 @@
+body {
+    background-color: #f1ffc4;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding: 2.5%;
+}
+
+#bloco {
+    background-color: white;
+    padding: 2.5%;
+    display: flex;
+    justify-content: center;
+}
+
+#bloco h4 {
+    margin-bottom: 1%;
+}
+
+#anuncio h1 {
+    margin: 0%;
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+#descricao {
+    margin-left: 2%;
+}   
+
+#descricao #javascript {
+    margin-top: 2%;
+    display: flex;
+}
+
+#javascript-book {
+    margin-left: 1%;
+}
+
+#javascript-book h4 {
+    margin-top: 5%;
+}
+
+
